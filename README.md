@@ -10,7 +10,7 @@ I am a passionate **Software Engineer and Laravel Developer** with **2 years of 
 - 🔭 **Current Focus:** Building optimized backend workflows & modular architecture inside the Laravel ecosystem.
 - ⚙️ **Core Expertise:** Database Optimization, RESTful APIs, MVC/SOLID Principles, and Third-party Integrations.
 - 🌱 **Learning & Scaling:** Deep diving into Advanced System Design patterns, Dockerized Microservices, and Event-Driven Laravel architectures.
-- 💬 **Ask me about:** PHP, Laravel optimizations, Vue.js reactive components, and clean architectural habits.
+- 💬 **Ask me about:** PHP, Laravel optimizations, React.js reactive components, and clean architectural habits.
 
 ---
 
@@ -19,12 +19,11 @@ I am a passionate **Software Engineer and Laravel Developer** with **2 years of 
 #### 🧱 Backend & Frameworks
 * **Framework:** Laravel
 * **Languages:** PHP, Node.js
-* **Routing:** Express.js
 
 #### 🎨 Frontend Development
-* **Languages:** JavaScript (ES6+)
-* **Frameworks:** Vue.js, Alpine.js
-* **Styling:** Tailwind CSS, HTML5, CSS3
+* **Languages:** JavaScript
+* **Libraries & Frameworks:** React.js, Next.js
+* **Styling:** HTML, CSS, Bootstrap
 
 #### 💾 Database & DevOps
 * **Databases:** MySQL, PostgreSQL, Redis
@@ -35,7 +34,7 @@ I am a passionate **Software Engineer and Laravel Developer** with **2 years of 
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/rizwansarwar22/)
+* 💼 **LinkedIn:** [rizwansarwar22](https://www.linkedin.com/in/rizwansarwar22/)
 * 📧 **Email:** muhammadrizwans666@gmail.com
 
 ---
