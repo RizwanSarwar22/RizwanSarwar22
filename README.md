@@ -35,7 +35,7 @@ I am a passionate **Software Engineer and Laravel Developer** with **2 years of 
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [://[linkedin.com](https://www.linkedin.com/in/rizwansarwar22/)
+* 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/rizwansarwar22/)
 * 📧 **Email:** muhammadrizwans666@gmail.com
 
 ---
